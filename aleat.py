@@ -46,3 +46,4 @@ class aleatApp(webApp):
 
 if __name__ == "__main__":
 	testWebApp = aleatApp("localhost", 1234)
+	
